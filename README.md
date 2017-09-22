@@ -1,8 +1,8 @@
 ## Molit Hackerton
 
 ### 버스 어때? - HAB(How About the Bus)
+빅데이터와 승객평가를 이용한 안전운전 도우미 어플리케이션
 __The app helps you more safe driving using bigdata & evaluation of the passenger__
-__빅데이터와 승객평가를 이용한 안전운전 도우미 어플리케이션__
 
 
 #### Team Info
