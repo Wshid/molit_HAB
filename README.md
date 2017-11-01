@@ -23,3 +23,6 @@ Android Application : Java, Android Studio 2.x
 #### Product Description
 DTG(전자기록계)의 정보와 교통사고 정보를 Spark엔진으로 분석하고 Elastic stack을 이용하여 동적인 통계 정보를 제공합니다.
 또한, 안드로이드 어플리케이션으로 버스 승객의 피드백을 활용해 운전 안전도 향상을 기대할 수 있습니다.
+
+#### Video
+https://www.youtube.com/watch?v=4PHyMfohP2M
